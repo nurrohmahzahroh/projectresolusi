@@ -1,5 +1,6 @@
 rencana project
 - membuat aplikasi pemesanan tiket online
   > tiket liburan
-- membuat website desa
+  > tiket kereta
+- membuat aplikasi ojek online
 - itu aja dulu
