@@ -1,0 +1,3 @@
+rencana project
+- membuat aplikasi pemesanan tiket online
+- itu aja dulu
