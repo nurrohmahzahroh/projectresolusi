@@ -1,3 +1,4 @@
 project resolusi
 - semoga lancar tidak ada error meskipun ada bisa solved
+- selesai tepat waktu
 - udah itu dulu aja
